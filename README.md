@@ -8,3 +8,7 @@ If you want to follow along, check 'Deploying Serverless Web App.pdf"
 
 Make sure you download frontend, backend zip files and json file that contains s3 bucket policy.
 
+Guideline is in Korean, if you want the english version email me!
+
+해당 가이드라인은 국문으로 작성되어 있습니다.
+
