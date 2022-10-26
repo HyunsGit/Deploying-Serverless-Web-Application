@@ -6,3 +6,5 @@ Using Specific code to download files
 
 If you want to follow along, check 'Deploying Serverless Web App.pdf"
 
+Make sure you download frontend, backend zips and json file that contains s3 bucket policy.
+
